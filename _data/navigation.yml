@@ -14,13 +14,13 @@ main:
 # main links
 main:
   - title: "TIL(Today I Learned)"
-    url:  "/til/"
+    url:  "/post/"
 
 # TIL links
-til:
+post:
   - title: "Design Pattern"
-    url: "/til/design-pattern"
+    url: "/post/design-pattern"
   - title: "JAVA"
-    url: "/til/java/"
+    url: "/post/java/"
   - title: "PYTHON"
-    url: "/til/python/"
+    url: "/post/python/"
