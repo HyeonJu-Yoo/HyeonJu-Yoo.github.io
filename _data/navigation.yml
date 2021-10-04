@@ -10,3 +10,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# main links
+main:
+  - title: "TIL(Today I Learned"
+    url:  "/til/"
+  - title: "JAVA"
+    url: "/java/"
+  - title: "PYTHON"
+    url: "/python/"
+
+# # documentation links
+# docs:
+#   - title:
+
