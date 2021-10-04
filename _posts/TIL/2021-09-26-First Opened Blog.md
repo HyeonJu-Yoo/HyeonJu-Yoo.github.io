@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "First Opened Blog"
+# permalink: "/
+date: 2021-09-26
+categories: TIL
+tags: 'TIL'
+author: HyeonJu Yoo
 ---
 # 2021.09
 
