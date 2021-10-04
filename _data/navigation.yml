@@ -17,7 +17,7 @@ main:
     url:  "/til/"
 
 # TIL links
-docs:
+til:
   - title: "Design Pattern"
     url: "/til/design-pattern"
   - title: "JAVA"
