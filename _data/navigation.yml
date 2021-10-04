@@ -15,12 +15,13 @@ main:
 main:
   - title: "TIL(Today I Learned"
     url:  "/til/"
+
+# TIL links
+docs:
+  - title: "Design Pattern"
+    url: "/til/design-pattern"
+
   - title: "JAVA"
-    url: "/java/"
+    url: "/til/java/"
   - title: "PYTHON"
-    url: "/python/"
-
-# # documentation links
-# docs:
-#   - title:
-
+    url: "/til/python/"
