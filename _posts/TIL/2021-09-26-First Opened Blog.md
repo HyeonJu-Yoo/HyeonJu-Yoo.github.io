@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "First Opened Blog"
 # permalink: "/
 date: 2021-09-26
